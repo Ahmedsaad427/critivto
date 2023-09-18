@@ -1,0 +1,1992 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    color: aqua;
+    font-size: 45px;
+    position: relative;
+    left: 165%;
+}
+h4{
+    color:white;
+    position: absolute;
+   
+    left: 20%;
+}
+.nav2{
+    background-color: rgba(0, 0, 0, 0.866);
+    display: flex;
+    
+   width: 100%;
+   height: 100%;
+   padding: 40px;
+    overflow: hidden;
+}
+
+.button-solid{ 
+  
+    margin: 0px 0px; 
+   
+   padding: 20px 20px; 
+   
+  text-decoration: none; 
+  color: white;
+   
+  }
+  .fa-magnifying-glass{
+    color: white;
+    padding: 25px;
+  }
+  .div4{
+    position: absolute;
+    left: 50%;
+   justify-content: center;
+
+  }
+.div5{
+    width: 50px;
+    height: 10px;
+    position: absolute;
+       left: 995px ;
+       width: 100%;
+       height: 500px;
+}
+.sec1{
+    background: linear-gradient(to left,#00323ae8,rgb(0, 0, 0));
+width: 100%;
+height: 700px;
+}
+  .A{
+    position: absolute;
+bottom: 55%;
+    left: 20%;
+    color: aqua;
+    font-size: 30px;
+  }
+  .B{
+    position: absolute;
+    bottom: 30%;
+    left: 20%;
+    font-size: 80px;
+    color: white;
+  }
+  .Aqua-text{
+    color: aqua;
+    
+
+  }
+  .C{
+    border-bottom: 2px solid rgb(67, 197, 158);
+        width: 100px;
+        position: absolute;
+        bottom: 25%;
+        left: 20%;
+        margin-bottom: 10px;
+       
+  }
+  .D{
+    position: absolute;
+    bottom: 15%;
+    left: 20%;
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.844);
+  }
+  .fa-circle-play{
+    position: absolute;
+    bottom: 1%;
+        left: 18%;
+        background-color: white;
+       font-size: 55px;
+       color: rgba(0, 128, 0, 0.575);
+        border-radius: 50%;
+        box-shadow: green;
+        border-bottom: green;
+  }
+ 
+  .K{
+    position: absolute;
+    bottom: 2%;
+        left: 23%;
+        color: white;
+        font-size: 30px;
+  }
+  .E{
+    border-bottom: 2px solid rgba(128, 128, 128, 0.367);
+        width: 100px;
+        position: absolute;
+        bottom: -2%;
+        left: 23.5%;
+        margin-bottom: 10px;
+       
+  }  
+  .W{
+    position: absolute;
+    bottom: -6%;
+    left: 23.5%;
+    color: aqua;
+  }
+  .SEC2{
+    background-color: black;
+    width: 100%;
+    height: 700px;
+  }
+  .div7 {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    position: absolute;
+    bottom: -53%;
+    left: 44%;
+    transition: all 0.5s ease-in;
+
+    background-color: rgba(47, 42, 42, 0.397);
+  }
+  .div8 {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    position: absolute;
+    bottom: -53%;
+    left: 67%;
+    transition: all 0.5s ease-in;
+
+       background: linear-gradient(to bottom,rgb(0, 0, 0),#00323ae8);
+  }
+  .div9 {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    position: absolute;
+    bottom: -86%;
+    left: 44%;
+    transition: all 0.5s ease-in;
+    background: linear-gradient(to bottom,rgb(0, 0, 0),#00323ae8);
+
+  }
+  .div10 {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    position: absolute;
+    transition: all 0.5s ease-in;
+    background-color: rgba(47, 42, 42, 0.397);
+
+    bottom: -86%;
+    left: 67%;
+  }
+
+  .WW{
+    font-size: 25px;
+   position: absolute;
+   top: 40%;
+
+  }
+  .image1{
+position: absolute;
+left: 33%;
+top: -3%;
+
+  }
+  .P1{
+    position: absolute;
+    top: 60%;
+
+   color: rgba(140, 139, 139, 0.777);
+  }
+  .image2{
+    position: absolute;
+    left: 33%;
+    top: -3%;
+      }
+      .P2{
+        position: absolute;
+        top: 60%;
+        transition: all 0.5s ease-in;
+
+       color: rgba(140, 139, 139, 0.777);
+      }
+      .image3{
+        position: absolute;
+        left: 33%;
+        top: -3%;
+          }
+          .P3{
+            position: absolute;
+            top: 60%;
+            transition: all 0.5s ease-in;
+
+           color: rgba(140, 139, 139, 0.777);
+          }
+          .image4{
+            position: absolute;
+            left: 33%;
+            top: -3%;
+            transition: all 0.5s ease-in;
+
+              }
+              .P4{
+                position: absolute;
+                top: 60%;
+            
+               color: rgba(140, 139, 139, 0.777);
+              }
+              .our1{
+                position: absolute;
+                bottom: -30%;
+                font-size: 25px;
+                color: aqua;
+                left: 10%;
+              }
+              .y{
+                position: absolute;
+                bottom: -45%;
+                font-size: 70px;
+                color: white;
+                left: 10%;
+              }
+.h{
+    border-bottom: 2px solid rgb(67, 197, 158);
+        width: 100px;
+        position: absolute;
+        bottom: -50%;
+        left: 10%;
+        margin-bottom: 10px;
+       
+}
+.m{
+    position: absolute;
+    bottom: -60%;
+    left: 10%;
+    color: white;
+    font-size: 20px;
+}
+.n{
+    position: absolute;
+    bottom: -70%;
+    left: 10%;
+    color: white;
+    font-size: 20px;
+}
+.Button1{
+
+    position: absolute;
+    bottom: -81%;
+    left: 15%;
+    color: white;
+    background-color: rgba(0, 255, 255, 0.81);
+    font-size: 20px;
+    padding: 15px 32px;
+    border: none;
+    width: 160px;
+    transition: all 0.5s ease-in;
+}
+.Button1:hover{
+width: 168px;
+transform: scale(1.1);
+background-color: rgba(60, 54, 54, 0.759);
+
+}
+.Sec3{
+    background-color: rgba(0, 0, 0, 0.956);
+    width: 100%;
+    height: 700px;
+}
+.image6{
+    position: absolute;
+    
+    left: 10%;
+}
+.About1{
+
+    position: absolute;
+    bottom: -110%;
+    font-size: 30px;
+    color: aqua;
+    left: 40%;
+}
+.q{
+    position: absolute;
+                bottom: -130%;
+                font-size: 60px;
+                color: white;
+                left: 40%;
+}
+.Line4{
+    border-bottom: 2px solid rgb(67, 197, 158);
+        width: 100px;
+        position: absolute;
+        bottom: -133%;
+        left: 40%;
+        margin-bottom: 10px;
+}
+.Parag2{
+    position: absolute;
+    bottom: -140%;
+    font-size: 60px;
+    color: gray;
+    left: 40%;
+    font-size: 20px;
+}
+.image7{
+    position: absolute;
+bottom: -160%;
+left: 41.5%;
+transition: all 0.5s ease-in;
+
+}
+.parag3{
+    position: absolute;
+    bottom: -162%;
+    left:47%;
+    color: gray;
+    font-size: 20px;
+}
+.W1{
+    position: absolute;
+    bottom: -155%;
+    left:47%;
+    color: gray;
+    font-size: 35px;
+}
+.image8{
+    position: absolute;
+bottom: -160%;
+left: 69%;
+transition: all 0.5s ease-in;
+
+}
+.parag4{
+    position: absolute;
+    bottom: -162%;
+    left:75%;
+    color: gray;
+    font-size: 20px;
+}
+.W2{
+    position: absolute;
+    bottom: -155%;
+    left:75%;
+    color: gray;
+    font-size: 35px;
+}
+.sec5{
+    background: linear-gradient(to right,rgb(26, 46, 42),rgb(0, 0, 0));
+
+    width: 100%;
+    height: 300px;
+   
+
+}
+.image9{
+position: absolute;
+left: 81%;
+opacity: 0.5;
+}
+.image12{
+    position: absolute;
+  left: 250px;
+margin: 47px;
+transition: all 0.5s ease-in;
+
+}
+.W8{
+    color: aqua;
+    position: absolute;
+    left: 190px;
+    margin: 130px;
+    font-size: 30px;
+}
+
+.fa-plus{
+    color: white;
+    position: absolute;
+    left: 230px;
+    margin: 140px;
+    font-size: 20px;
+}
+.W18{
+    color: white;
+    position: absolute;
+    left: 130px;
+    margin: 164px;
+    font-size: 20px;
+}
+.image13{
+    position: absolute;
+  left: 490px;
+margin: 47px;
+transition: all 0.5s ease-in;
+
+}
+.W9{
+    color: aqua;
+    position: absolute;
+    left: 430px;
+    margin: 130px;
+    font-size: 30px;
+}
+
+.White-color{
+    color: white;
+    
+    font-size: 30px;
+}
+.W19{
+    color: white;
+    position: absolute;
+    left: 360px;
+    margin: 164px;
+    font-size: 20px;
+}
+.image14{
+    position: absolute;
+  left: 700px;
+margin: 47px;
+transition: all 0.5s ease-in;
+
+}
+.W10{
+    color: aqua;
+    position: absolute;
+    left:650px;
+    margin: 130px;
+    font-size: 30px;
+}
+
+.fa-plus{
+    color: white;
+    position: absolute;
+    left: 230px;
+    margin: 140px;
+    font-size: 20px;
+}
+.W20{
+    color: white;
+    position: absolute;
+    left: 580px;
+    margin: 164px;
+    font-size: 20px;
+}
+.image15{
+    position: absolute;
+  left: 1000px;
+margin: 47px;
+transition: all 0.5s ease-in;
+
+}
+.W11{
+    color: aqua;
+    position: absolute;
+    left: 945px;
+    margin: 130px;
+    font-size: 30px;
+}
+
+.fa-plus{
+    color: white;
+    position: absolute;
+    left: 230px;
+    margin: 140px;
+    font-size: 20px;
+}
+.W21{
+    color: white;
+    position: absolute;
+    left: 890px;
+    margin: 164px;
+    font-size: 20px;
+}
+.Sec6{
+    background-color: rgba(0, 0, 0, 0.956);
+    width: 100%;
+    height: 940px;
+}
+.Latest{
+    position: absolute;
+    left: 110px;
+margin: 120px;
+font-size: 30px;
+color: aqua;
+}
+.W12{
+    position: absolute;
+    left: 40px;
+margin: 178px;
+font-size: 60px;
+}
+.Line5{
+    border-bottom: 2px solid rgb(67, 197, 158);
+    width: 100px;
+    position: absolute;
+    left: -2%;
+    margin-bottom: 10px;
+    margin: 255px;
+}
+.parag5{
+    position: absolute;
+    font-size: 60px;
+    color: gray;
+    left: -5%;
+    font-size: 20px;
+    margin: 300px;
+}
+.W13{
+    position: absolute;
+    
+    left: 70%;
+    font-size: 20px;
+    margin: 30px;
+    transition: all 0.5s ease-in;
+
+}
+.W14{
+    position: absolute;
+    
+    left: -20%;
+    font-size: 20px;
+    margin: 520px;
+    transition: all 0.5s ease-in;
+
+}
+.W15{
+    position: absolute;
+    
+    left: 10%;
+    font-size: 20px;
+    transition: all 0.5s ease-in;
+
+    margin: 520px;
+}
+.W16{
+    position: absolute;
+    transition: all 0.5s ease-in;
+    
+    left: 37%;
+    font-size: 20px;
+    margin: 520px;
+
+}
+.fa-check{
+    color: aqua;
+    position: absolute;
+    
+    left: -12%;
+    font-size: 20px;
+    margin: 400px;
+}
+.parag7{
+    color: white;
+    position: absolute;
+    
+    left: -10%;
+    font-size: 20px;
+    margin: 398px;
+}
+.parag8{
+    color: white;
+    position: absolute;
+    
+    left: -10%;
+    font-size: 20px;
+    margin: 400px;
+}
+.Sec7{
+z-index: -1;
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(to right,rgb(0,0,0),rgb(27, 46, 42));
+  
+
+}
+.image16{
+position: absolute;
+
+opacity: 0.3;
+
+}
+.image17{
+    position: absolute;
+    left: -2%;
+    margin: 100px;
+    transition: all 0.5s ease-in;
+width: 290px;
+}
+.image35{
+    position: absolute;
+    left: 15%;
+    margin: 100px;
+    transition: all 0.5s ease-in;
+    width: 290px;
+
+}
+.image36{
+    position: absolute;
+    left: 35%;
+    margin: 100px;
+    transition: all 0.5s ease-in;
+    width: 315px;
+    
+}
+.image37{
+    position: absolute;
+    left: 55%;
+    margin: 100px;
+    transition: all 0.5s ease-in;
+    width: 315px;
+    
+}
+.image38{
+    position: absolute;
+    left: 73%;
+    margin: 100px;
+    transition: all 0.5s ease-in;
+    width: 315px;
+
+}
+.Sec8{
+    background-color: black;
+width: 100%;
+height: 1100px;
+}
+.W70{
+    color: aqua;
+    font-size: 30px;
+    position: absolute;
+    left: 10%;
+    margin: 150px;
+}
+.parag50{
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    left: 8%;
+    margin: 180px;
+}
+.parag51{
+
+     color: gray;
+margin: 240px;
+position: absolute;
+left: 43.5%;
+font-size: 20px;
+width: 580px;
+}
+.fa-circle-check{
+    color: aqua;
+    margin: 402px;
+    position: absolute;
+    left: 25%;
+    font-size: 17px;
+}
+.parag52{
+    color: white;
+    position: absolute;
+    left: 27%;
+margin: 400px;
+}
+.parag53{
+    color: white;
+    position: absolute;
+    left: 27%;
+margin: 402px;
+}
+.image56{
+    position: absolute;
+    margin: 490px;
+    left: -14%;
+    transition: all 0.5s ease-in;
+    width: 515px;
+}
+.image57{
+    position: absolute;
+    margin: 600px;
+    left: 15%;
+    transition: all 0.5s ease-in;
+    width: 515px;
+}
+
+.Sec10{
+    background-color: rgba(0, 0, 0, 0.956);
+    width: 100%;
+    height: 700px;
+    z-index: -1;
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(to right,rgb(17, 17, 17),black);
+}
+
+  
+
+.image89{
+position: absolute;
+left: 78%;
+opacity: 0.4;
+}
+
+.W80{
+    color: aqua;
+    position: absolute;
+    margin: 50px;
+    left: 42%;
+    font-size: 30px;
+}
+.W81{
+    color: white;
+    position: absolute;
+    left: 33%;
+    margin: 90px;
+    font-size: 60px;
+}
+
+.Line7{
+    border-bottom: 2px solid rgb(67, 197, 158);
+    width: 100px;
+    position: absolute;
+    left: 39%;
+    margin-bottom: 10px;
+    margin: 180px;
+}
+
+.parag60{
+color: grey;
+    position: absolute;
+    left: 20%;
+margin: 200px;
+font-size: 17px;
+}
+
+.Sec11{
+    background: linear-gradient(to right,rgb(17, 17, 17),black);
+width: 100%;
+height: 900px;
+}
+
+.image90{
+    position: absolute;
+    left: 71%;
+    opacity: 0.4;
+}
+
+
+
+.div91 {
+    width: 550px;
+    height: 300px;
+    padding: 50px;
+    position: absolute;
+   left: 7%;
+    margin: 150px;
+    background-color: rgb(21, 21, 21);
+    transition: all 0.5s ease-in;
+  }
+  .div92 {
+    width: 550px;
+    height: 300px;
+    padding: 50px;
+    position: absolute;
+   left: 46.3%;
+    margin: 150px;
+    background-color: rgb(21, 21, 21);
+    transition: all 0.5s ease-in;
+  }
+  .div93 {
+    width: 550px;
+    height: 300px;
+    padding: 50px;
+    position: absolute;
+   left: -14%;
+    margin: 470px;
+    background-color: rgb(21, 21, 21);
+    transition: all 0.5s ease-in;
+  }
+  .div94 {
+    width: 550px;
+    height: 300px;
+    padding: 50px;
+    position: absolute;
+   left: 25.4%;
+    margin: 470px;
+    background-color: rgb(21, 21, 21);
+    transition: all 0.5s ease-in;
+  }
+  .Mike{
+position: absolute;
+left: 10%;
+margin: -55px;
+
+  }
+  .Hanna{
+    position: absolute;
+    left: 8%;
+    margin: -55px;
+  }
+  .Lexi{
+    position: absolute;
+left: 8%;
+margin: -55px;
+  }
+  .Kevin{
+    position: absolute;
+left: 8%;
+margin: -55px;
+  }
+  .Wo1{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 20%;
+    margin: 175px;
+
+  }
+  .Wo2{
+    color: aqua;
+    position: absolute;
+    font-size: 20px;
+    left: 16.7%;
+    margin: 230px;
+  }
+  .parag100{
+    position: absolute;
+    font-size: 20px;
+    left: 12%;
+    margin: 325px;
+    color: gray;
+  }
+  .div95 .fa-facebook{
+    position: absolute;
+    left: 7%;
+    margin: 410px;
+    font-size: 25px;
+  }
+  .div95 .fa-twitter{
+    position: absolute;
+    left: 11%;
+    margin: 410px;
+    font-size: 25px;
+  }
+  .div95 .fa-instagram{
+    position: absolute;
+    left: 14%;
+    margin: 410px;
+    font-size: 25px;
+  }
+  .Wo3{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 45%;
+    margin: -29px;
+
+  }
+  .Wo4{
+    color: aqua;
+    position: absolute;
+    font-size: 20px;
+    left: 35%;
+    margin: 25px;
+  }
+  .parag101{
+    position: absolute;
+    font-size: 20px;
+  margin: 100px;
+  left: 22%;
+    color: gray;
+  }
+  .div92 .fa-facebook{
+    position: absolute;
+    left: 3% ;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div92 .fa-twitter{
+    position: absolute;
+    left: 12%;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div92 .fa-instagram{
+    position: absolute;
+    left: 22%;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .Wo5{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 45%;
+    margin: -29px;
+
+  }
+  .Wo6{
+    color: aqua;
+    position: absolute;
+    font-size: 20px;
+    left: 35%;
+    margin: 25px;
+  }
+  .parag102{
+    position: absolute;
+    font-size: 20px;
+  margin: 100px;
+  left: 22%;
+    color: gray;
+  }
+  .div93 .fa-facebook{
+    position: absolute;
+    left: 3% ;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div93 .fa-twitter{
+    position: absolute;
+    left: 12%;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div93 .fa-instagram{
+    position: absolute;
+    left: 22%;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .Wo7{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 45%;
+    margin: -29px;
+
+  }
+  .Wo8{
+    color: aqua;
+    position: absolute;
+    font-size: 20px;
+    left: 35%;
+    margin: 25px;
+  }
+  .parag103{
+    position: absolute;
+    font-size: 20px;
+  margin: 100px;
+  left: 22%;
+    color: gray;
+  }
+  .div94 .fa-facebook{
+    position: absolute;
+    left: 3% ;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div94 .fa-twitter{
+    position: absolute;
+    left: 12%;
+    margin: 210px;
+    font-size: 25px;
+  }
+  .div94 .fa-instagram{
+    position: absolute;
+    left: 22%;
+    margin: 210px;
+    font-size: 25px;
+  }
+
+.Sec9{
+    background-color: black;
+    width: 100%;
+    height: 1470px;
+}
+.W71{
+    color: Aqua;
+    position: absolute;
+    margin: 50px;
+    left: 42%;
+    font-size: 30px;
+}
+.W72{
+    color: white;
+    position: absolute;
+    left: 35%;
+    margin: 90px;
+    font-size: 60px;
+}
+.Line6{
+    border-bottom: 2px solid rgb(67, 197, 158);
+    width: 100px;
+    position: absolute;
+    left: 37%;
+    margin-bottom: 10px;
+    margin: 180px;
+}
+.parag54{
+    color: grey;
+    position: absolute;
+    left: 20%;
+margin: 200px;
+}
+.image80{
+    position: absolute;
+    left: -4%;
+    margin: 300px;
+    transition: all 0.5s ease-in;
+
+}
+.image81{
+    position: absolute;
+    left: 22%;
+    margin: 300px;
+    transition: all 0.5s ease-in;
+
+}
+.image82{
+    position: absolute;
+    left: 47.5%;
+    margin: 300px;
+    transition: all 0.5s ease-in;
+
+}
+.image83{
+    position: absolute;
+    left: -30%;
+    margin: 700px;
+    transition: all 0.5s ease-in;
+
+}
+
+.image84{
+    position: absolute;
+    left: -2%;
+    margin: 700px;
+    transition: all 0.5s ease-in;
+
+}
+.image85{
+    position: absolute;
+    left: 24%;
+    margin: 700px;
+    transition: all 0.5s ease-in;
+
+}
+.image86{
+    position: absolute;
+    left: -56%;
+    margin: 1100px;
+    transition: all 0.5s ease-in;
+
+}
+.image87{
+    position: absolute;
+    left: -28%;
+    margin: 1100px;
+    transition: all 0.5s ease-in;
+
+}
+.image88{
+    position: absolute;
+    left: -2%;
+    margin: 1100px;
+    transition: all 0.5s ease-in;
+
+}
+.Sec50{
+    background: linear-gradient(to right,rgba(17, 17, 17, 0.859),black);
+    width: 100%;
+    height: 400px;
+z-index: 1;
+
+}
+.image100{
+    opacity: 0.7;
+}
+.Wo9{
+    color: aqua;
+margin: -350px;
+position: absolute;
+left: 32%;
+font-size: 20px;
+}
+.Wo11{
+    color: white;
+    margin: -320px;
+    position: absolute;
+    left: 30%  
+
+}
+.Line8{
+    border-bottom: 2px solid rgb(67, 197, 158);
+    width: 100px;
+    position: absolute;
+    left: 26%;
+    margin-bottom: 10px;
+    margin: -250px;   
+}
+.parag104{
+    color: rgb(194, 187, 187);
+    margin: -233px;
+    position: absolute;
+    left: 20% ;
+}
+.div96 {
+    width: 500px;
+    height: 255px;
+    padding: 50px;
+    position: absolute;
+  margin: -310px;
+  left: 77%;
+ background-color:  rgba(0, 0, 0, 0.837);
+   opacity: 0.7;
+   transition: all 0.5s ease-in;
+ }
+ .parag105{
+    color: rgb(139, 137, 137);
+    margin: -30px;
+    position: absolute;
+    left: 8% ;
+}
+.Wo12{
+    color: rgb(255, 255, 255);
+    margin: 110px;
+    font-size: 25px;
+    position: absolute;
+    left: 5%;
+}
+.Wo13{
+
+    color: aqua;
+    margin: 140px;
+    position: absolute;
+    left: 0%;
+}
+.image105{
+margin: 103px;
+position: absolute;
+left: -11%;
+border-radius: 50%;
+}
+.fa-quote-right{
+    margin: 150px;
+    left:55%;
+    position: absolute;
+    font-size: 40px;
+}
+.Button2{
+
+    position: absolute;
+    bottom: 15%;
+    left: -128%;
+    color: white;
+    background-color: rgb(41, 218, 179);
+    font-size: 20px;
+    padding: 15px 32px;
+    border: none;
+    transition: ease-in 0.5s  ;
+    width: 280px;
+
+}
+.Button2:hover{
+    width: 283px;
+    background-color: black;
+
+   transform: scale(1.1);
+}
+.Sec55{
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+}
+
+.Wo80{
+    position: absolute;
+    left: 30%;
+    margin: 150px;
+    color: white;
+}
+.Wo85{
+    position: absolute;
+    left: 38%;
+   margin: 100px;
+    color: aqua;
+    font-size: 30px;
+}
+
+.Line9{
+    border-bottom: 2px solid rgb(67, 197, 158);
+    width: 100px;
+    position: absolute;
+   margin: 210px;
+    margin-bottom: 10px;
+    left: 32.5%;
+}
+.parag108{
+    color: rgb(163, 163, 163);
+    margin: 230px;
+    position: absolute;
+    left: 15%;
+    font-size: 20px;
+}
+
+.image150{
+    margin: 375px;
+position: absolute;
+left: -17%;
+transition: all 0.5s ease-in;
+
+}
+.image151{
+    margin: 352px;
+position: absolute;
+left: 13%;
+transition: all 0.5s ease-in;
+
+}
+.image152{
+    margin: 335px;
+position: absolute;
+left: 44%;
+transition: all 0.5s ease-in;
+
+
+}
+.parag109{
+    color: white;
+    margin: 720px;
+    position: absolute;
+    left: -40%;
+    font-size: 20px;
+}
+.Wo14{
+    color: aqua;
+    margin: 640px;
+    position: absolute;
+    left: -35%;
+    font-size: 30px
+}
+.div700 .fa-bars{
+    margin: 845px;
+    position: absolute;
+    left: -37%;
+    font-size: 25px;
+}
+.div700 .fa-calendar-days{
+    margin: 845px;
+    position: absolute;
+    left: -49%;
+    font-size: 25px;
+}
+.Date{
+    color: White;
+    margin: 845px;
+    position: absolute;
+    left: -47%;
+    font-size: 21.5px;
+}
+
+.Bar{
+    color: white;
+    margin: 845px;
+    position: absolute;
+    left: -35%;
+    font-size: 21.5px;
+    display: flex;
+}
+.Bar1{
+    color: white;
+    position: absolute;
+   margin: 835px;
+    font-size: 21.5px;
+left: 0%;
+}
+
+.Date1{
+    color: white;
+    position: absolute;
+    font-size: 23px;
+    margin: 835px;
+    left: -17%;
+    width: 500px;
+}
+.parag888{
+    color: white;
+    position: absolute;
+    font-size: 20px;   
+    margin: 699px;
+    width: 500px;
+    left: -9.5%;
+}
+.Bar2{
+    color: white;
+    position: absolute;
+    font-size: 23px;
+    margin: 813px;
+    width: 500px;
+    left:30%;
+}
+
+.Date2{
+    color: white;
+    position: absolute;
+    font-size: 23px;
+    margin: 813px;
+    width: 500px;
+    left: 17%;
+}
+.parag889{
+    color: white;
+    position: absolute;
+    font-size: 20px;   
+   margin:680px;
+   left: 22%;
+   width: 500px;
+}
+
+.div701 .fa-bars{
+    margin: 835px;
+    position: absolute;
+    left: -2%;
+    font-size: 25px;
+}
+.div701 .fa-calendar-days{
+    margin: 835px;
+    position: absolute;
+    left: -19%;
+    font-size: 25px;
+}
+.div702 .fa-bars{
+    margin: 815px;
+    position: absolute;
+    font-size: 25px;
+    left: 28%;
+}
+.div702 .fa-calendar-days{
+    margin: 815px;
+    position: absolute;
+    font-size: 25px;
+    left: 15%;
+}
+.Alaa{
+    position: absolute;
+    left: -4%;
+    margin: 610px;
+    width: 500px;
+    font-size: 35px;
+}
+.Ahmed{
+    position: absolute;
+    left: 27%;
+    margin: 595px;
+    width: 500px;
+    font-size: 35px;
+}
+.Sec56{
+    
+width: 100%;
+height: 900px;
+background-color: rgb(12, 12, 12);
+background-image: url(bg-2.png) ;
+background-repeat: no-repeat;
+background-size: auto;
+background-position: center;
+
+}
+.div97 {
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    position: absolute;
+   left: 5%;
+    margin: 95px;
+    background-color: rgb(21, 21, 21);
+    border: 4px solid rgb(75, 167, 147);
+    
+
+}
+.i5{
+    position: absolute;
+    left: 8%;
+    margin: -35px;
+    font-size: 20px;
+    
+    color: rgb(71, 159, 141);
+}
+.I1{
+    margin: -10px;
+    position: absolute;
+    left: 3.5%;
+    width: 470px;
+    background-color: black;
+    height: 45px;
+    border: 2px solid rgb(75, 167, 147);
+    
+}
+.i6{
+    font-size: 20px;
+
+    position: absolute;
+    left: -9%;
+    margin: 50px;
+    color: rgb(71, 159, 141);
+}
+.I2{
+    margin: 80px;
+    position: absolute;
+    left: -15%;
+    width: 470px;
+    background-color: black;
+    height: 45px;
+    border: 2px solid rgb(75, 167, 147);
+
+}
+textarea:focus, input:focus {
+    color: white;
+    font-size: 20px;
+}
+.i7{
+    position: absolute;
+    left: -29.5%;
+    margin: 150px;
+    color: rgb(71, 159, 141);
+    width: 550px;
+    font-size: 20px;
+}
+.I3{
+    margin: 180px;
+    position: absolute;
+    left: -35%;
+    width: 479px;
+    background-color: black;
+    height: 190px;
+    border: 2px solid rgb(75, 167, 147);
+
+}
+
+.Button3{
+    position: absolute;
+    bottom: 10px;
+    left: 28%;
+    
+color: white;
+background-color: rgb(41, 218, 179);
+font-size: 20px;
+padding: 15px 32px;
+border: none;
+transition: ease-in 0.5s  ;
+}
+
+.Button3:hover{
+transform: scale(1.1);
+    background-color: black;
+   font-size: 20px;
+  }
+.fa-location-dot{
+      position: absolute;
+      left: 26.5%;
+      margin: 300px;
+      font-size: 50px;
+}
+.fa-phone{
+    position: absolute;
+    left: 21%;
+    margin: 395px;
+    font-size: 50px;
+}
+.fa-envelope{
+    position: absolute;
+    left: 16%;
+    margin: 480px;
+    font-size: 50px;
+}
+.Lo{
+    position: absolute;
+    color: white;
+    margin: 305px;
+    left:30% ;
+    font-size: 22px;
+}
+.Lo2{
+    color:rgb(89, 204, 179);
+    position: absolute;
+    margin: 340px;
+    left:27.5% ;
+    font-size: 20px;
+}
+.Po{
+    position: absolute;
+    color: white;
+    margin: 395px;
+    left:24.5% ;
+    font-size: 25px;
+}
+.Pho2{
+    color: rgb(89, 204, 179);
+    position: absolute;
+    margin: 425px;
+    left:22.7% ;
+    font-size: 20px;
+}
+.Eo{
+    position: absolute;
+    color: white;
+    margin: 470px;
+    left:20.5% ;
+    font-size: 25px;
+}
+.Eo2{
+    color: rgb(89, 204, 179);
+    position: absolute;
+    margin: 500px;
+    left:18.7% ;
+    font-size: 20px;
+}
+.T1{
+    color: rgb(89, 204, 179);
+    left: 41%;
+    margin:88px;
+    position: absolute;
+    font-size: 22px;
+}
+.g1{
+    color: white;
+    left: 39%;
+    margin:120px;
+    position: absolute;
+    font-size: 45px;
+}
+.Line10{
+    border-bottom: 3px solid rgb(67, 197, 158);
+    width: 80px;
+    position: absolute;
+   margin: 175px;
+    margin-bottom: 10px;
+    left: 35.5%; 
+}
+.parag1000{
+    color: rgb(166, 165, 166);
+    position: absolute;
+    margin: 195px;
+     left: 34%; 
+}
+.Sec65{
+    width: 100%;
+    height: 570px;
+    background-image: radial-gradient( rgb(13, 30, 27),rgb(9, 20, 18),rgb(6, 14, 13),black)
+}
+.C1{
+    color: rgb(92, 210, 185);
+    position: absolute;
+    left: 40%;
+    margin: 80px;
+    font-size: 60px;
+}
+.C2{
+    color: white;
+    position: absolute;
+    left: 38%;
+    margin: 150px;
+    font-size: 20px;
+}
+.button-solid1{ 
+    position: absolute;
+    left: 18%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+   
+  }
+  .button-solid2{ 
+    position: absolute;
+    left: 23%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+
+  }
+  .button-solid3{ 
+    position: absolute;
+    left:30%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+
+  }
+  .button-solid4{ 
+    position: absolute;
+    left: 36%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+
+  }
+  .button-solid5{ 
+    position: absolute;
+    left: 42%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+
+  }
+  .button-solid6{ 
+    position: absolute;
+    left: 46%;
+    margin: 250px; 
+  text-decoration: none; 
+  color: rgb(92, 210, 185);
+  padding: 20px 20px; 
+  font-size: 20px;
+   
+  }
+  .p4{
+color: rgb(231, 251, 240);
+margin: 350px;
+position: absolute;
+font-size: 20px;
+left: 17%;
+  }
+.fa-facebook{
+    position: absolute;
+margin: 450px;
+left: 16%;
+font-size: 20px;
+}
+.fa-instagram{
+    position: absolute;
+margin: 450px;
+left: 24%;
+font-size: 20px;
+
+}
+.fa-twitter{
+    position: absolute;
+margin: 450px;
+left: 20%;
+font-size: 20px;
+}
+.fa-pinterest{
+    position: absolute;
+margin: 450px;
+left: 28%;
+font-size: 20px;
+}
+.Copy{
+    color: #777270;
+margin: 530px;
+position: absolute;
+left: 8%;
+width: 500px;
+}
+
+.image1:hover{
+    width: 90px;
+    transform: scale(1.1);
+    
+}
+.div7:hover{
+    width:310px;
+    transform: scale(1.1);
+    height: 210px;
+}
+.div8:hover{
+    width: 310px;
+    transform: scale(1.1);
+    height: 210px;
+}
+.div9:hover{
+    width: 310px;
+    transform: scale(1.1);
+    height: 210px;
+}
+.div10:hover{
+    width: 310px;
+    transform: scale(1.1);
+    height: 210px;
+}
+.image7:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.image8:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.image12:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.image13:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.image14:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.image15:hover{
+    width: 88px;
+    transform: scale(1.1);
+    
+}
+.W13:hover{
+    width: 358px;
+    transform: scale(1.1);
+    
+}
+.W14:hover{
+    width: 358px;
+    transform: scale(1.1);
+    
+}
+.W15:hover{
+    width: 358px;
+    transform: scale(1.1);
+    
+}
+.W16:hover{
+    width: 358px;
+    transform: scale(1.1);
+    
+}
+
+.image17:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 295px;
+
+}
+
+.image35:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 295px;
+
+}
+.image36:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 320px;
+
+}
+.image37:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 320px;
+
+}
+.image38:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 320px;
+    
+}
+.image56:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 520px;
+    
+}
+.image57:hover{
+    width: 88px;
+    transform: scale(1.1);
+    width: 520px;
+    
+}
+.div91:hover{
+    width:552px;
+    transform: scale(1.1);
+    
+}
+.div92:hover{
+    width:552px;
+    transform: scale(1.1);
+    
+}
+.div93:hover{
+    width:552px;
+    transform: scale(1.1);
+    
+}
+.div94:hover{
+    width:552px;
+    transform: scale(1.1);
+    
+}
+.image80:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image81:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image82:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image83:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image84:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image85:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image86:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image87:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+.image88:hover{
+    width: 360px;
+    transform: scale(1.1);
+    
+}
+
+.div96:hover{
+    width:510px;
+    transform: scale(1.1);
+    
+}
+.image150:hover{
+    width: 410px;
+    transform: scale(1.1);
+    
+}
+.image151:hover{
+    width: 410px;
+    transform: scale(1.1);
+    
+}
+.image152:hover{
+    width: 410px;
+    transform: scale(1.1);
+    
+}
+.parag1000:hover{
+    filter: brightness(180%);
+
+}
+.parag889:hover{
+    filter: brightness(180%);
+
+}
+.parag888:hover{
+    filter: brightness(180%);
+
+}
+.p4:hover{
+    filter: brightness(180%);
+
+}
+.Copy:hover{
+    filter: brightness(180%);
+}
+.parag108:hover{
+    filter: brightness(180%);
+
+}
+.parag105:hover{
+    filter: brightness(180%);
+
+}
+.parag104:hover{
+    filter: brightness(180%);
+
+}
+.parag54:hover{
+    filter: brightness(180%);
+
+}
+.parag100:hover{
+    filter: brightness(180%);
+
+}
+.parag101:hover{
+    filter: brightness(180%);
+
+}
+.parag102:hover{
+    filter: brightness(180%);
+
+}
+.parag103:hover{
+    filter: brightness(180%);
+
+}
+.parag60:hover{
+    filter: brightness(180%);
+
+}
+.parag51:hover{
+    filter: brightness(180%);
+
+}
+.parag52:hover{
+    filter: brightness(180%);
+
+}
+.parag53:hover{
+    filter: brightness(180%);
+
+}
+.parag5:hover{
+    filter: brightness(180%);
+
+}
+.parag3:hover{
+    filter: brightness(180%);
+
+}
+.parag4:hover{
+    filter: brightness(180%);
+
+}
+.W1:hover{
+    filter: brightness(180%);
+
+}
+.W2:hover{
+    filter: brightness(180%);
+
+}
+.Parag2:hover{
+    filter: brightness(180%);
+
+}
+.P1:hover{
+    filter: brightness(220%);
+
+}
+.D:hover{
+    filter: brightness(180%);
+
+}
